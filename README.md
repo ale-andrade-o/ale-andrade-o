@@ -16,7 +16,9 @@
 
   <div align="left">
   ## Contate-me:
-  <a href="mailto:alessandroandrade64@gmail.com"><img src="img/logo-email.png" alt="Gmail" style="width:40px;" align="center"></a> <a       href="https://www.instagram.com/ale.andrade._/"><img src="Images/logo-insta.png" alt="Insta" style="width:40px;" align="center"></a>
+  <hr/>
+  <a href="mailto:alessandroandrade64@gmail.com"><img src="img/logo-email.png" alt="email" style="width:40px;" align="center"></a>   
+  <a href="https://www.instagram.com/ale.andrade._/"><img src="img/logo-insta.png" alt="insta" style="width:40px;" align="center"></a>
   + **Email:** alessandroandrade64@gmail.com
   
 </div>
