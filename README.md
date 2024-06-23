@@ -1,4 +1,4 @@
-## Ola ;)
+## Ola 👋
 
   
   <div>
@@ -9,9 +9,7 @@
   <div align="left">
     ﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀﹀
     <p> ⋆ Ola :) Meu nome é Alessandro, e tenho 21 anos.  </p>
-    <p> ⋆ Atraido pelo universo dos computadores e programação, nascido e criado no     
-          interior de Minas. </p>
-    <p> ⋆ Com essa curiosidade pela área decidir me aprofundar e estudar Ciência da Computação na PUC Minas. </p>
+    <p> ⋆ Atraido pelo universo dos computadores e programação, com essa curiosidade pela área decidir me aprofundar e estudar Ciência da Computação na PUC Minas. </p>
     <p> ⋆ Cursando 1° periodo atualmente. <br/>[■■□□□□□□□□] 20% </p>
     
   
